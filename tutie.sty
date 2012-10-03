@@ -1,0 +1,24 @@
+\ProvidesPackage{tutie}
+
+\usepackage[utf8x]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[french]{babel}
+\usepackage{charter}  % <3
+
+\usepackage[pdfborder={0 0 0}]{hyperref}
+
+\renewcommand{\thesection}{\arabic{section}}
+
+% \go{X} stands for « go to paragraph X »
+\newcommand{\go}[1]{$\rightarrow$~\textbf{\ref{#1}}}
+
+% \z{X} stands for « paragraph » (z like Zombie…)
+% creates a section without true title and a label named X.
+\newcommand{\z}[1]{\section{------------------------------------------} \label{#1}}
+
+% environment for « now, what ? » paragraphs.
+\newenvironment{nw}
+{\begin{quote} \small \textbf{\textit{Et maintenant…}} \begin{itemize}}
+{\end{itemize} \normalsize \end{quote}}
+\newcommand{\bnw}{\begin{nw}}
+\newcommand{\enw}{\end{nw}}
