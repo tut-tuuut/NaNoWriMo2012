@@ -12,9 +12,10 @@
 % \go{X} stands for « go to paragraph X »
 \newcommand{\go}[1]{$\rightarrow$~\textbf{\ref{#1}}}
 
-% \z{X} stands for « paragraph » (z like Zombie…)
-% creates a section without true title and a label named X.
-\newcommand{\z}[1]{\section{------------------------------------------} \label{#1}}
+% creates sections without true title and a "true" label
+\let\sectionOld = \section
+\renewcommand{\section}[1]{\sectionOld{------------------------------ \texttt{[#1]}} \label{#1}} %debug
+%\renewcommand{\section}[1]{\sectionOld{------------------------------------------} \label{#1}} %sharing
 
 % environment for « now, what ? » paragraphs.
 \newenvironment{nw}
