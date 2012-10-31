@@ -18,8 +18,8 @@
 %\renewcommand{\section}[1]{\sectionOld{------------------------------------------} \label{#1}} %sharing
 
 % environment for « now, what ? » paragraphs.
-\newenvironment{nw}
-{\begin{quote} \small \textbf{\textit{Et maintenant…}} \begin{itemize}}
+\newenvironment{nw}[1]
+{\begin{quote} \small \textbf{\textit{#1}} \begin{itemize}}
 {\end{itemize} \normalsize \end{quote}}
-\newcommand{\bnw}{\begin{nw}}
+\newcommand{\bnw}[1]{\begin{nw}{#1}}
 \newcommand{\enw}{\end{nw}}
