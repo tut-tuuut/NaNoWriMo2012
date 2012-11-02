@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SearchIndexes Version="1.0">
+    <Documents>
+        <Document ID="3">
+            <Title>Untitled</Title>
+        </Document>
+        <Document ID="4">
+            <Title>Personnages</Title>
+            <Text>Rinn : 
+Ny
+Alric
+Paco
+Marceline
+
+Une vampire
+Une apprentie mage
+Un archer voleur qui parle aux animaux
+Un mercenaire
+Un humble messager</Text>
+        </Document>
+        <Document ID="0">
+            <Title>NaNoWriMo2012</Title>
+        </Document>
+        <Document ID="5">
+            <Title>Lien</Title>
+            <Text>http://donjon.bin.sh/
+</Text>
+        </Document>
+    </Documents>
+</SearchIndexes>
