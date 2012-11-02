@@ -7,14 +7,14 @@
                 <IncludeInCompile>Yes</IncludeInCompile>
             </MetaData>
             <Children>
-                <BinderItem ID="3" Type="Text" Created="2012-11-02 01:27:58 +0100" Modified="2012-11-02 18:44:27 +0100">
-                    <Title>« Jamais !</Title>
+                <BinderItem ID="3" Type="Text" Created="2012-11-02 01:27:58 +0100" Modified="2012-11-03 00:45:28 +0100">
+                    <Title>« Jamais ! »</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>642,0</TextSelection>
+                        <TextSelection>3565,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
             </Children>
@@ -86,7 +86,7 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2012-11-02 01:27:57 +0100" IgnoreDeadline="Yes">50000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">1800</SessionTarget>
-        <PreviousSession Words="588" Characters="3413" Date="2012-11-02 17:52:32 +0100"></PreviousSession>
+        <PreviousSession Words="993" Characters="5660" Date="2012-11-02 22:08:09 +0100"></PreviousSession>
     </ProjectTargets>
     <PrintSettings PaperSize="595.0,842.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>
