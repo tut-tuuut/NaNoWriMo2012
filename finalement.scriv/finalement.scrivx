@@ -7,24 +7,34 @@
                 <IncludeInCompile>Yes</IncludeInCompile>
             </MetaData>
             <Children>
-                <BinderItem ID="3" Type="Text" Created="2012-11-02 01:27:58 +0100" Modified="2012-11-03 00:45:28 +0100">
+                <BinderItem ID="3" Type="Text" Created="2012-11-02 01:27:58 +0100" Modified="2012-11-04 21:18:16 +0100">
                     <Title>« Jamais ! »</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>10646,0</TextSelection>
+                        <TextSelection>9634,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="6" Type="Text" Created="2012-11-03 14:18:23 +0100" Modified="2012-11-04 15:53:18 +0100">
+                <BinderItem ID="6" Type="Text" Created="2012-11-03 14:18:23 +0100" Modified="2012-11-04 23:00:25 +0100">
                     <Title>Un petit thé et une grande promenade</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>15949,0</TextSelection>
+                        <TextSelection>25248,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="7" Type="Text" Created="2012-11-04 23:00:36 +0100" Modified="2012-11-06 00:20:02 +0100">
+                    <Title>La magie du sang</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>10800,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
             </Children>
@@ -96,7 +106,7 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2012-11-02 01:27:57 +0100" IgnoreDeadline="Yes">50000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">1800</SessionTarget>
-        <PreviousSession Words="472" Characters="2810" Date="2012-11-04 15:15:19 +0100"></PreviousSession>
+        <PreviousSession Words="118" Characters="693" Date="2012-11-05 23:07:22 +0100"></PreviousSession>
     </ProjectTargets>
     <PrintSettings PaperSize="595.0,842.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>
