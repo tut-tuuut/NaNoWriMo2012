@@ -27,14 +27,74 @@
                         <TextSelection>25248,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="7" Type="Text" Created="2012-11-04 23:00:36 +0100" Modified="2012-11-06 00:20:02 +0100">
+                <BinderItem ID="7" Type="Text" Created="2012-11-04 23:00:36 +0100" Modified="2012-11-07 23:54:35 +0100">
                     <Title>La magie du sang</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>10800,0</TextSelection>
+                        <TextSelection>22046,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="8" Type="Text" Created="2012-11-17 11:40:54 +0100" Modified="2012-11-17 15:07:50 +0100">
+                    <Title>17 novembre dans le train</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>17185,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="9" Type="Text" Created="2012-11-18 16:20:27 +0100" Modified="2012-11-18 19:52:05 +0100">
+                    <Title>18 novembre dans le TGV</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>26765,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="10" Type="Text" Created="2012-11-20 19:04:41 +0100" Modified="2012-11-20 19:48:11 +0100">
+                    <Title>20 novembre brasserie du square</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>6607,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="11" Type="Text" Created="2012-11-21 20:37:49 +0100" Modified="2012-11-21 20:37:53 +0100">
+                    <Title>21 novembre soir</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="12" Type="Text" Created="2012-11-24 15:19:44 +0100" Modified="2012-11-24 16:36:06 +0100">
+                    <Title>24 novembre</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>7783,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="13" Type="Text" Created="2012-11-24 16:36:37 +0100" Modified="2012-11-24 16:39:50 +0100">
+                    <Title>Manuel</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
             </Children>
@@ -106,7 +166,7 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2012-11-02 01:27:57 +0100" IgnoreDeadline="Yes">50000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">1800</SessionTarget>
-        <PreviousSession Words="118" Characters="693" Date="2012-11-05 23:07:22 +0100"></PreviousSession>
+        <PreviousSession Words="19055" Characters="127021" Date="2012-11-24 15:18:41 +0100"></PreviousSession>
     </ProjectTargets>
     <PrintSettings PaperSize="595.0,842.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>
